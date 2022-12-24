@@ -2,11 +2,11 @@
 
 ![screenshot](screenshot.png)
 
-Based on:
-<https://amazfitwatchfaces.com/mi-band-7/view/16>
+Based on [ARC v2.5 Multilang](https://amazfitwatchfaces.com/mi-band-7/view/16) from [.Kosmik](https://amazfitwatchfaces.com/ucp/234311).
 
-To convert the images (convert to zepp OS tga):
-<https://watchface-web-editor.vercel.app>
+To convert the images (convert to zepp OS tga): <https://watchface-web-editor.vercel.app>.
+
+To install this watchface (sync with band), use [Mi Band 7 Watch Faces](https://play.google.com/store/apps/details?id=asn.ark.miband7) or [AmazFaces](https://play.google.com/store/apps/details?id=com.amazfitwatchfaces.st) and select `.bin` file.
 
 ## Languages
 
