@@ -1,10 +1,52 @@
-# ARC - Xiaomi Mi Band 7 Watch Face
+# Mi Band 7 "ARC" watchface
 
 Based on:
 <https://amazfitwatchfaces.com/mi-band-7/view/16>
 
 To convert the images (convert to zepp OS tga):
 <https://watchface-web-editor.vercel.app>
+
+## Languages
+
+- Czech
+- Danish
+- Dutch
+- English (USA)
+- Finnish
+- German (Germany)
+- Indonesian
+- Italian (Italy)
+- Japanese (Japan)
+- Korean (Korea)
+- Malay
+- Norwegian
+- Polish (Poland)
+- Portuguese (Brazil)
+- Portuguese (Portugal)
+- Romanian
+- Russian (Russia)
+- Serbian (Latin)
+- Simplified Chinese
+- Slovakian
+- Spanish (Spain)
+- Swedish
+- Traditional Chinese (Taiwan, China)
+- Ukrainian
+
+## Tap zones
+
+- Battery - Flashlight
+- Steps - Personal Activity
+- Heart Rate - Heart Rate
+- Calories - Personal Activity
+- PAI - PAI
+- Distance - Personal Activity
+- Weather - Weather
+- SpO2 - Blood Oxygen Level
+- Stress - Stress
+- Alarm clock icon - Alarm clock
+- Left part of the date bar - minus 20% of luminance
+- Right part of the date line - plus 20% of luminance
 
 ## Contributing
 
