@@ -1,5 +1,7 @@
 # Mi Band 7 "ARC" watchface
 
+![screenshot](screenshot.png)
+
 Based on:
 <https://amazfitwatchfaces.com/mi-band-7/view/16>
 
