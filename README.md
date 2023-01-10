@@ -1,4 +1,4 @@
-# "ARC" watchface for Mi Band 7
+# "ARC" watchface for Xiaomi Mi Band 7
 
 ![screenshot](screenshot.png)
 
