@@ -6,7 +6,7 @@ Based on [ARC v2.5 Multilang](https://amazfitwatchfaces.com/mi-band-7/view/16) f
 
 ## Tools used
 
-To convert the images (convert to zepp OS tga): <https://watchface-web-editor.vercel.app>.
+To convert the images (convert to ZeppOS tga): use the [ZMake](https://github.com/melianmiko/zmake) tool.
 
 To install this watchface (sync with band), use [AmazFaces](https://play.google.com/store/apps/details?id=com.amazfitwatchfaces.st) and select `.bin` file.
 
