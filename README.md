@@ -2,7 +2,7 @@
 
 ![screenshot](screenshot.png)
 
-Based on [ARC v2.5 Multilang](https://amazfitwatchfaces.com/mi-band-7/view/16) from [.Kosmik](https://amazfitwatchfaces.com/ucp/234311).
+Based on [ARC v2.5 Multilang - Update 08.10.22](https://amazfitwatchfaces.com/mi-band-7/view/16) from [.Kosmik](https://amazfitwatchfaces.com/ucp/234311).
 
 ## Tools used
 
